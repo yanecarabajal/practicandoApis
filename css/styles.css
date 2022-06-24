@@ -1,0 +1,13 @@
+body{
+    background-color: lightcoral;
+    color: white;
+}
+
+table thead{
+    background-color: lightblue;
+    color: white;
+}
+
+tbody{
+    background-color: lavenderblush;
+}
